@@ -1,0 +1,16 @@
+body{
+    height: auto;
+    width: 540px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color:white;
+    color: rgb(18, 66, 18);
+}
+
+.container {
+    margin: 1em auto;
+    padding: 1em;
+    width: auto;
+}
